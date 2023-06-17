@@ -1,0 +1,20 @@
+div *{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blueviolet;
+    color: beige;
+}
+
+div {
+    border-style: solid;
+    border-color: aqua;
+    padding: 100px;
+    background-color: brown;
+    margin-top: 50px;
+}
+
+.item1{
+    grid-area: main;
+}
